@@ -278,6 +278,10 @@ To do this, follow the steps below:
 
 ---
 
+## 🛠️ Sample Dashboard
+![Alt text](sample_dashboard.png)
+---
+
 ## 🧪 Key Outcomes
 
 - Improved search performance  
